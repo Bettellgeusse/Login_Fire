@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# fire_login
-Login Fire Test
-=======
 # Express OpenID Connect Webapp Sample
 
 This sample demonstrates authentication for an Express Node.js app. The sample quickly shows how to log in, log out, and view profile information of the logged-in user.
@@ -61,4 +57,3 @@ Auth0 helps you to easily:
 ## License
 
 This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for more info.
->>>>>>> 17a3f7a (Inicio login Fire Test)
